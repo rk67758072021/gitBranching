@@ -22,3 +22,6 @@ $ git branch // shows all the branches and the green colored branch is the branc
 
 $ git checkout branchName // to switch b/w the branches
 
+$ git diff // to see the code before merging the branches
+
+

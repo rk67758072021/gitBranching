@@ -8,3 +8,6 @@ Commit #1 -> Commit #2
 feature branch ka change bs feature branch mein hi dikhega aur main branch ka code main branch mein hi dikhega
 
 major bug ke liye hut fix branch bnate hai aur fir main branch ke saath merge kr dete hai
+
+
+learning on freeCodeCamp

@@ -11,3 +11,14 @@ major bug ke liye hut fix branch bnate hai aur fir main branch ke saath merge kr
 
 
 learning on freeCodeCamp
+
+$ git branch 
+
+$ git checkout // to switch the branches
+
+$ git checkout -b nameOfTheBranch // to create a new branch
+
+$ git branch // shows all the branches and the green colored branch is the branch in which you are currently working
+
+$ git checkout branchName // to switch b/w the branches
+

@@ -1,0 +1,8 @@
+git branching mein 
+
+Commit #1 -> Commit #2 -> Commit #3 -> Commit #4 (ye sb main branch hai)
+
+feature branches
+Commit #1 -> Commit #2
+
+feature branch ka change bs feature branch mein hi dikhega aur main branch ka code main branch mein hi dikhega

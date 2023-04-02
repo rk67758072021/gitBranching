@@ -31,3 +31,6 @@ $ git reset // to undo the commits
 $ git reset HEAD // to undo the last commit -> HEAD is the pointer to the last commit
 
 $ git reset HEAD~1 // to undo one git before the last commit
+
+$ git log // to see all the commits in the repo
+

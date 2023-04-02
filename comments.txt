@@ -24,4 +24,4 @@ $ git checkout branchName // to switch b/w the branches
 
 $ git diff // to see the code before merging the branches
 
-
+$git merge branchName // to merge

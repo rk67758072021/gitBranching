@@ -24,4 +24,10 @@ $ git checkout branchName // to switch b/w the branches
 
 $ git diff // to see the code before merging the branches
 
-$git merge branchName // to merge
+$ git merge branchName // to merge
+
+$ git reset // to undo the commits
+
+$ git reset HEAD // to undo the last commit -> HEAD is the pointer to the last commit
+
+$ git reset HEAD~1 // to undo one git before the last commit
